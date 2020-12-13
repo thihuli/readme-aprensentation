@@ -37,7 +37,8 @@
 <p aling="left">
  Tecnologias ulilizadas  
 </p>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="logo-HTML5"/>
+<p display="flex">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="logo-HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=whit" alt="logo-CSS3"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff" alt="logo-javascript"/>
   <img src="https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white"/>
@@ -51,3 +52,5 @@
   <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white"/>
+ </p>
+
