@@ -35,7 +35,7 @@
 </p>
 
 <p aling="left">
- Tecnologias ulilizadas  
+ Tecnologias ulilizadas => {
 </p>
 <p display="flex">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="logo-HTML5"/>
@@ -53,4 +53,5 @@
   <img src="https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white"/>
  </p>
+ }
 
