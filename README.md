@@ -35,7 +35,7 @@
 </p>
 
 <p aling="left">
- Tecnologias ulilizadas => {
+ Tecnologias ulilizadas = (techs) => {
 </p>
 <p display="flex">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="logo-HTML5"/>
