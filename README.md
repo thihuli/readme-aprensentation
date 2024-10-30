@@ -1,22 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá meu nome é Thiago e sou <strong>Desenvolvedor Fron-End</strong>.<br>
+  Hello my name is Thiago and I am <strong>Full Stack Developer</strong>.<br>
 </p>
-  <p>
-    Atualmente trabalho com a stack React, React-Native e NextJS. 
-  Sou um dos resnposáveis por desenvolver plataforma web e mobile, trabalhando com a criação de página, componentes reutilizaveis, estilos com styled-components e roteamento da aplicação. 
-  </p>
-  <p>
-   Já tive a oportunidade de deenvolver o front-end de uma aplição mobile que se encontra aqui: https://cutt.ly/qhPiRBr , e ter trabalhado no desenvolvimento de uma plataforma de vídeos sobre demanda de artes cénicas.
-  </p>
-
-<p align="left">
-  🦄 Linguagens: <strong>Javascript.</strong>
+<p>
+  I am passionate about road trips and love discovering different and less explored places. I consider myself intelligent and capable of solving proposed problems. I have a degree in systems analysis and a technical degree in electrical engineering. I worked for many years doing maintenance on personal computers back when they were still popular, haha. Now everything is about smartphones. I currently have over 5 years of experience in software development, using technologies such as React.js, Next.js, React Native, Node.js, TypeScript, Jest, and React Testing Library. I have worked for companies like Banco do Brasil and Buscapé, which provided me with a lot of experience and knowledge, and I hope to gain even more.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React, React-Native, NextJS, Styled-Components, Expo, VScode.</strong>
+  🦄 Languages: <strong>Javascript.</strong>
+</p>
+
+<p align="left">
+  💼 Tools: <strong>React, React-Native, NextJS, Styled-Components, Expo, VScode.</strong>
 </p>
 
 <p align="left">
@@ -25,7 +21,7 @@
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/thiago-fernandes-0406b7131/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/thiago-fernandes-dev/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
   
 
@@ -35,7 +31,7 @@
 </p>
 
 <p aling="left">
- Tecnologias ulilizadas 
+ Technologies used
 </p>
 <p display="flex">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="logo-HTML5"/>
