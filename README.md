@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Javascript.</strong>
+  🦄 Languages: <strong>TypeScript</strong> <strong>Javascript.</strong> <strong>node JS</strong>
 </p>
 
 <p align="left">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Para entrar em contato só clicar em uma das redes abaixo: ⤵️
+  💌 To get in touch, just click on one of the networks below: ⤵️
 </p>
 
 <p align="left">
